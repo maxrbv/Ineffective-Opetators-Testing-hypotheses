@@ -1,4 +1,4 @@
-# Ineffective-Opetators-Testing-hypotheses
+# Ineffective Opetators Testing hypotheses
 ## Our goal: to check whether everything was done correctly and analyze the test results.
 
 ### **Task**
